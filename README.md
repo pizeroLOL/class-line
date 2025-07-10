@@ -1,6 +1,8 @@
 # Class Line
 
-栈式课课表编辑器。
+![show case](./docs/images/show-case.png)
+
+栈式课表编辑器。
 
 ## 开发
 
